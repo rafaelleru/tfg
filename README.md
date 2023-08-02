@@ -3,8 +3,8 @@
 **Este sería el README de tu proyecto. Consulta las [instrucciones de
 instalación](INSTALL.md)
 
-### Autor(a): Nombre
-### Tutor(a)(es): Nombre(s)
+### Autor(a): Rafael Leyva Ruiz
+### Tutor(a)(es): Juan Julián Merelo Guervós
 ___
 
 La documentación de este proyecto está realizada con `LaTeX`, por lo
